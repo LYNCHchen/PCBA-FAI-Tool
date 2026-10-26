@@ -1,0 +1,10 @@
+# 排除运行数据与构建产物
+pcba_users.json
+*.pyc
+__pycache__/
+build/
+dist/
+*.spec
+*.log
+.idea/
+.vscode/
